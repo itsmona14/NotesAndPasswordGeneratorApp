@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149023303300",
+    "project_id": "notes-and-password-manag-b40d3",
+    "storage_bucket": "notes-and-password-manag-b40d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149023303300:android:90bd43e1d20496b53084d1",
+        "android_client_info": {
+          "package_name": "com.example.notesandpasswdmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149023303300-1tnshq79p960rksqmp4hmc412v62cjnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKytWcrzT7GgHUWK5JdNK8oS6lvlqF4EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149023303300-1tnshq79p960rksqmp4hmc412v62cjnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
